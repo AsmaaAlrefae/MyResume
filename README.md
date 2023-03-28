@@ -1,5 +1,4 @@
 # MyResume
-# Fun Project
 
 This project is a fun script written in Python to generate a resume for Asmaa Alrefae. The script utilizes the pandas library to create data frames for work experience and education, and then uses a string template to generate a formatted resume.
 
