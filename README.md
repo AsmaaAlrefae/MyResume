@@ -29,5 +29,5 @@ The `skills` variable is a list of skills that Asmaa possesses.
 ## Resume Template
 The `resume` string variable is the template for the final resume. It contains placeholders for Asmaa's personal information, work experience, education, and skills. The script utilizes a for loop to populate each of these sections with the relevant information from the data frames and skills list.
 
-## Output
-The script outputs the `exp` data frame and the final formatted resume generated using the `resume` template.
+# Output
+The script outputs the final formatted resume generated using the `resume` template.
