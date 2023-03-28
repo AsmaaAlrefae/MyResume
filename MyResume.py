@@ -69,5 +69,4 @@ for skill in skills:
     resume += f"{skill}\n"
 
 # Print resume
-print(exp)
 print(resume)
