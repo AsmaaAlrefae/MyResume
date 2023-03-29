@@ -31,3 +31,6 @@ The `resume` string variable is the template for the final resume. It contains p
 
 # Output
 The script outputs the final formatted resume generated using the `resume` template.
+
+# Inspiration
+https://www.linkedin.com/posts/pieropaialunga_mydatascienceresume-ugcPost-6896305981773422592-gHJX
