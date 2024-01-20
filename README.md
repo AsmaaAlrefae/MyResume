@@ -7,7 +7,6 @@ This project is a fun script written in Python to generate a resume for Asmaa Al
 
 ## Personal Information
 - Name: Asmaa Alrefae
-- Email: asmaa.a.alrefae@gmail.com
 - LinkedIn: https://www.linkedin.com/in/asmaaalrefae/
 
 ## Work Experience
